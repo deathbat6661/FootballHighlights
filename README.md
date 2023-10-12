@@ -1,5 +1,4 @@
-# FootballHighlights
-Watch football / soccer highlights and full match replay of the latest matches Premier League, La Liga, Serie A, Champions League, Europa League, World Cup and other sports and leagues. only on https://ahighlight.com
+# Football / Soccer Highlights and Full Matches Replay
 
 
 ## Unveiling the Art of Watching Football Highlights: An All-Encompassing Handbook
