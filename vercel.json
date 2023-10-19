@@ -1,5 +1,5 @@
 {
-  "redirect": [
-    {"source": "/(.*)", "destination": "https://ahighlight.com/$1"}
+  "redirects": [
+    {"source": "/(.*)", "destination": "https://ahighlight.com/$1", "statusCode": 301 }
   ]
 }
