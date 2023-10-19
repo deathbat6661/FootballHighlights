@@ -1,5 +1,5 @@
 {
-  "rewrites": [
+  "redirect": [
     {"source": "/(.*)", "destination": "https://ahighlight.com/$1"}
   ]
 }
